@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://github.com/nicejade/experience-precipitate/issues"><img src="https://user-images.githubusercontent.com/15773463/55685688-af6d1a80-598b-11e9-9b76-86687f017f90.png" width="256" alt="Experience Precipitate"></a></h1>
+
 <h1 align="center">Experience Precipitate</h1>
 
 <div align="center">
